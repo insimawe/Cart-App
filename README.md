@@ -1,2 +1,6 @@
 # Cart-App
-using vuejs 3 
+Basic Vuejs App
+ - Add to Cart Socks
+ - Leave a review to the item
+
+
